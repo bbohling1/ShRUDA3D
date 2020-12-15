@@ -1,0 +1,6 @@
+Input file: C:\Users\bohli\Documents\realsimdata\Simulation\Simulation\data\regular\regular70.txt
+Alpha Value: 0.2
+Time Taken: 0.40560007095336914
+AVG Pearson correlation Dist vs. Reconstructed Dist: 0.46608494894409735
+AVG Spearman correlation Dist vs. Reconstructed Dist: 0.37571998526486994
+AVG RMSE: 35.63369720184826
