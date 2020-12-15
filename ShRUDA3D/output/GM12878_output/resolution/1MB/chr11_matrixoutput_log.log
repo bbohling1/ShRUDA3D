@@ -1,0 +1,6 @@
+Input file: C:\Users\bohli\Documents\compbio_cp2\_\KR_1mb\\chr11_matrix.txt
+Alpha Value: 0.2
+Time Taken: 1.6197621822357178
+AVG Pearson correlation Dist vs. Reconstructed Dist: 0.5841356559151676
+AVG Spearman correlation Dist vs. Reconstructed Dist: 0.4432474562380415
+AVG RMSE: 489929.6981037455
